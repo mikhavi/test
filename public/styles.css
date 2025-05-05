@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+    background: #f9f9f9;
+}
+
+nav a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: darkblue;
+}
+
+h1 {
+    color: darkgreen;
+}
